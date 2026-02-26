@@ -83,7 +83,7 @@ passionate about bringing modern technology to Khmer users.
 
 <div align="center">
 
-### Chhuk Krapom — ជូក ក្រពម
+### Chhuk Krapom​ Font — ពុម្ពអក្សរខ្មែរឈូកក្រពុំ
 
 *An original Khmer typeface crafted by Rotana KONG*
 
