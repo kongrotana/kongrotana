@@ -1,6 +1,8 @@
 <div align="center">
 
-# Rotana KONG 🇰🇭
+<img src="https://kongrotanaofficial.github.io/img/about.jpg" width="150" style="border-radius: 50%;" alt="Rotana KONG"/>
+
+# Rotana KONG
 
 **Android Developer · Desktop App Builder · Telegram Bot Developer**
 **Khmer Font Designer · SQL Developer · Tech Enthusiast**
@@ -111,11 +113,11 @@ passionate about bringing modern technology to Khmer users.
 
 <div align="center">
 
-![Rotana KONG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kongrotana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kongrotana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/kongrotana)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kongrotana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kongrotana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/kongrotana)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kongrotana&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kongrotana&theme=tokyonight&hide_border=true)](https://github.com/kongrotana)
 
 </div>
 
@@ -136,6 +138,6 @@ If you find my projects or content helpful, consider supporting me by:
 
 *Let's build something amazing together! 🚀*
 
-**Rotana KONG** · Cambodia 🇰🇭
+**Rotana KONG** · Cambodia
 
 </div>
