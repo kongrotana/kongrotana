@@ -16,7 +16,7 @@
   <a href="https://facebook.com/krotanaofficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://t.me/kongrotanaofficialchannel"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:kongrotanaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://kongrotana.github.io/"><img src="https://img.shields.io/badge/Website-0078d4?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"/></a>
+  <a href="https://kongrotanaofficial.github.io/"><img src="https://img.shields.io/badge/Website-0078d4?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"/></a>
 </p>
 
 <p align="center">
